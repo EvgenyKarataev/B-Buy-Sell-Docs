@@ -1,0 +1,1 @@
+This folder must contain our week tasts and maybe our week reports.

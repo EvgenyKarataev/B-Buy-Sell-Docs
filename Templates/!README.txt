@@ -1,0 +1,1 @@
+This folder should contain templated for different types of documents.
